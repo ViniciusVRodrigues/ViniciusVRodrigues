@@ -4,9 +4,9 @@ Trabalho com Java e Spring Boot no back e React com TypeScript no front. Curríc
 
 ### Projetos próprios
 
-- **[Andromeda](https://andromeda.ia.br)** (em desenvolvimento): mede o que a IA entrega no time. Cruza o consumo de IA com métricas DORA e cycle time. Java, Spring Boot, MongoDB e React.
-- **[Ermo](https://nonecomes.vvr.dev.br)** (MVP): jogo de sobrevivência zumbi em incursões curtas, no celular. TypeScript, Phaser 3 e Capacitor.
-- **[Uai](https://uai.vvr.dev.br)** (piloto): assistente pessoal em cartões, não em chat. Java, Spring Boot, LangChain4j e React.
+- **[Andromeda](https://andromeda.ia.br)** (no ar): custo de IA e fluxo do time. Junta Azure DevOps, GitHub e o consumo de IA. TCC em grupo na PUCPR. Java, Spring Boot, MongoDB e React.
+- **[No One Comes](https://nonecomes.vvr.dev.br)** (beta): jogo de sobrevivência zumbi para celular, em incursões de 5 minutos. TypeScript, Phaser 3, Capacitor e Hono.
+- **[Uai](https://uai.vvr.dev.br)** (piloto fechado): assistente pessoal em cartões, com a IA numa camada trocável. Java, Spring Boot, LangChain4j e React.
 
 O código desses três é privado. Mais detalhes em [vvr.dev.br](https://vvr.dev.br/#proprios).
 
